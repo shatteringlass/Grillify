@@ -3,7 +3,7 @@ Grillify
 
 Estensione per Chromium/Google Chrome che applica il lessico del M5S quando necessario.
 
-[Direct download of crx file](https://github.com/shatteringlass/Grillify/blob/master/CloudToButt.crx?raw=true)
+[Direct download of crx file](https://github.com/shatteringlass/Grillify/blob/master/Grillify.crx?raw=true)
 
 Installation
 ------------
